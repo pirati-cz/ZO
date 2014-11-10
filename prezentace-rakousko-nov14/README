@@ -1,2 +1,7 @@
 pro sestaveni PDF:
 	pdflatex slides.tex
+
+cil/plan:
+	nechceme je unudit pro ne nepodstatnymi informacemi, spis jim dat info, ze ktereho by se mohli inspirovat
+	nabidnout co nejvetsi cast naseho programu ke zkopirovani a sireni; odlisnosti mezi programy
+	chceme dlouhodobou preshranicni spolupraci pri volbach, zakladnu pro spolupraci
